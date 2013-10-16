@@ -1,0 +1,9 @@
+require 'test_helper'
+
+module L12n
+  class CityTest < ActiveSupport::TestCase
+    # test "the truth" do
+    #   assert true
+    # end
+  end
+end
