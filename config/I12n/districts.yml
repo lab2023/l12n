@@ -1,0 +1,3833 @@
+---
+  -
+    id: 1
+    name: "Seyhan"
+    city_id: 1
+  -
+    id: 2
+    name: "Yüreğir"
+    city_id: 1
+  -
+    id: 3
+    name: "Sarıçam"
+    city_id: 1
+  -
+    id: 4
+    name: "Çukurova"
+    city_id: 1
+  -
+    id: 5
+    name: "Aladağ(Karsantı)"
+    city_id: 1
+  -
+    id: 6
+    name: "Ceyhan"
+    city_id: 1
+  -
+    id: 7
+    name: "Feke"
+    city_id: 1
+  -
+    id: 8
+    name: "İmamoğlu"
+    city_id: 1
+  -
+    id: 9
+    name: "Karaisalı"
+    city_id: 1
+  -
+    id: 10
+    name: "Karataş"
+    city_id: 1
+  -
+    id: 11
+    name: "Kozan"
+    city_id: 1
+  -
+    id: 12
+    name: "Pozantı"
+    city_id: 1
+  -
+    id: 13
+    name: "Saimbeyli"
+    city_id: 1
+  -
+    id: 14
+    name: "Tufanbeyli"
+    city_id: 1
+  -
+    id: 15
+    name: "Yumurtalık"
+    city_id: 1
+  -
+    id: 16
+    name: "Adıyaman"
+    city_id: 2
+  -
+    id: 17
+    name: "Besni"
+    city_id: 2
+  -
+    id: 18
+    name: "Çelikhan"
+    city_id: 2
+  -
+    id: 19
+    name: "Gerger"
+    city_id: 2
+  -
+    id: 20
+    name: "Gölbaşı"
+    city_id: 2
+  -
+    id: 21
+    name: "Kahta"
+    city_id: 2
+  -
+    id: 22
+    name: "Samsat"
+    city_id: 2
+  -
+    id: 23
+    name: "Sincik"
+    city_id: 2
+  -
+    id: 24
+    name: "Tut"
+    city_id: 2
+  -
+    id: 25
+    name: "Afyonkarahisar"
+    city_id: 3
+  -
+    id: 26
+    name: "Başmakçı"
+    city_id: 3
+  -
+    id: 27
+    name: "Bayat"
+    city_id: 3
+  -
+    id: 28
+    name: "Bolvadin"
+    city_id: 3
+  -
+    id: 29
+    name: "Çay"
+    city_id: 3
+  -
+    id: 30
+    name: "Çobanlar"
+    city_id: 3
+  -
+    id: 31
+    name: "Dazkırı"
+    city_id: 3
+  -
+    id: 32
+    name: "Dinar"
+    city_id: 3
+  -
+    id: 33
+    name: "Emirdağ"
+    city_id: 3
+  -
+    id: 34
+    name: "Evciler"
+    city_id: 3
+  -
+    id: 35
+    name: "Hocalar"
+    city_id: 3
+  -
+    id: 36
+    name: "İhsaniye"
+    city_id: 3
+  -
+    id: 37
+    name: "İscehisar"
+    city_id: 3
+  -
+    id: 38
+    name: "Kızılören"
+    city_id: 3
+  -
+    id: 39
+    name: "Sandıklı"
+    city_id: 3
+  -
+    id: 40
+    name: "Sincanlı(Sinanpaşa)"
+    city_id: 3
+  -
+    id: 41
+    name: "Sultandağı"
+    city_id: 3
+  -
+    id: 42
+    name: "Şuhut"
+    city_id: 3
+  -
+    id: 43
+    name: "Ağrı"
+    city_id: 4
+  -
+    id: 44
+    name: "Diyadin"
+    city_id: 4
+  -
+    id: 45
+    name: "Doğubeyazıt"
+    city_id: 4
+  -
+    id: 46
+    name: "Eleşkirt"
+    city_id: 4
+  -
+    id: 47
+    name: "Hamur"
+    city_id: 4
+  -
+    id: 48
+    name: "Patnos"
+    city_id: 4
+  -
+    id: 49
+    name: "Taşlıçay"
+    city_id: 4
+  -
+    id: 50
+    name: "Tutak"
+    city_id: 4
+  -
+    id: 51
+    name: "Amasya"
+    city_id: 5
+  -
+    id: 52
+    name: "Göynücek"
+    city_id: 5
+  -
+    id: 53
+    name: "Gümüşhacıköy"
+    city_id: 5
+  -
+    id: 54
+    name: "Hamamözü"
+    city_id: 5
+  -
+    id: 55
+    name: "Merzifon"
+    city_id: 5
+  -
+    id: 56
+    name: "Suluova"
+    city_id: 5
+  -
+    id: 57
+    name: "Taşova"
+    city_id: 5
+  -
+    id: 58
+    name: "Altındağ"
+    city_id: 6
+  -
+    id: 59
+    name: "Çankaya"
+    city_id: 6
+  -
+    id: 60
+    name: "Etimesgut"
+    city_id: 6
+  -
+    id: 61
+    name: "Keçiören"
+    city_id: 6
+  -
+    id: 62
+    name: "Mamak"
+    city_id: 6
+  -
+    id: 63
+    name: "Sincan"
+    city_id: 6
+  -
+    id: 64
+    name: "Yenimahalle"
+    city_id: 6
+  -
+    id: 65
+    name: "Gölbaşı"
+    city_id: 6
+  -
+    id: 66
+    name: "Pursaklar"
+    city_id: 6
+  -
+    id: 67
+    name: "Akyurt"
+    city_id: 6
+  -
+    id: 68
+    name: "Ayaş"
+    city_id: 6
+  -
+    id: 69
+    name: "Bala"
+    city_id: 6
+  -
+    id: 70
+    name: "Beypazarı"
+    city_id: 6
+  -
+    id: 71
+    name: "Çamlıdere"
+    city_id: 6
+  -
+    id: 72
+    name: "Çubuk"
+    city_id: 6
+  -
+    id: 73
+    name: "Elmadağ"
+    city_id: 6
+  -
+    id: 74
+    name: "Evren"
+    city_id: 6
+  -
+    id: 75
+    name: "Güdül"
+    city_id: 6
+  -
+    id: 76
+    name: "Haymana"
+    city_id: 6
+  -
+    id: 77
+    name: "Kalecik"
+    city_id: 6
+  -
+    id: 78
+    name: "Kazan"
+    city_id: 6
+  -
+    id: 79
+    name: "Kızılcahamam"
+    city_id: 6
+  -
+    id: 80
+    name: "Nallıhan"
+    city_id: 6
+  -
+    id: 81
+    name: "Polatlı"
+    city_id: 6
+  -
+    id: 82
+    name: "Şereflikoçhisar"
+    city_id: 6
+  -
+    id: 83
+    name: "Muratpaşa"
+    city_id: 7
+  -
+    id: 84
+    name: "Kepez"
+    city_id: 7
+  -
+    id: 85
+    name: "Konyaaltı"
+    city_id: 7
+  -
+    id: 86
+    name: "Aksu"
+    city_id: 7
+  -
+    id: 87
+    name: "Döşemealtı"
+    city_id: 7
+  -
+    id: 88
+    name: "Akseki"
+    city_id: 7
+  -
+    id: 89
+    name: "Alanya"
+    city_id: 7
+  -
+    id: 90
+    name: "Elmalı"
+    city_id: 7
+  -
+    id: 91
+    name: "Finike"
+    city_id: 7
+  -
+    id: 92
+    name: "Gazipaşa"
+    city_id: 7
+  -
+    id: 93
+    name: "Gündoğmuş"
+    city_id: 7
+  -
+    id: 94
+    name: "İbradı(Aydınkent)"
+    city_id: 7
+  -
+    id: 95
+    name: "Kale(Demre)"
+    city_id: 7
+  -
+    id: 96
+    name: "Kaş"
+    city_id: 7
+  -
+    id: 97
+    name: "Kemer"
+    city_id: 7
+  -
+    id: 98
+    name: "Korkuteli"
+    city_id: 7
+  -
+    id: 99
+    name: "Kumluca"
+    city_id: 7
+  -
+    id: 100
+    name: "Manavgat"
+    city_id: 7
+  -
+    id: 101
+    name: "Serik"
+    city_id: 7
+  -
+    id: 102
+    name: "Artvin"
+    city_id: 8
+  -
+    id: 103
+    name: "Ardanuç"
+    city_id: 8
+  -
+    id: 104
+    name: "Arhavi"
+    city_id: 8
+  -
+    id: 105
+    name: "Borçka"
+    city_id: 8
+  -
+    id: 106
+    name: "Hopa"
+    city_id: 8
+  -
+    id: 107
+    name: "Murgul(Göktaş)"
+    city_id: 8
+  -
+    id: 108
+    name: "Şavşat"
+    city_id: 8
+  -
+    id: 109
+    name: "Yusufeli"
+    city_id: 8
+  -
+    id: 110
+    name: "Aydın"
+    city_id: 9
+  -
+    id: 111
+    name: "Bozdoğan"
+    city_id: 9
+  -
+    id: 112
+    name: "Buharkent(Çubukdağı)"
+    city_id: 9
+  -
+    id: 113
+    name: "Çine"
+    city_id: 9
+  -
+    id: 114
+    name: "Germencik"
+    city_id: 9
+  -
+    id: 115
+    name: "İncirliova"
+    city_id: 9
+  -
+    id: 116
+    name: "Karacasu"
+    city_id: 9
+  -
+    id: 117
+    name: "Karpuzlu"
+    city_id: 9
+  -
+    id: 118
+    name: "Koçarlı"
+    city_id: 9
+  -
+    id: 119
+    name: "Köşk"
+    city_id: 9
+  -
+    id: 120
+    name: "Kuşadası"
+    city_id: 9
+  -
+    id: 121
+    name: "Kuyucak"
+    city_id: 9
+  -
+    id: 122
+    name: "Nazilli"
+    city_id: 9
+  -
+    id: 123
+    name: "Söke"
+    city_id: 9
+  -
+    id: 124
+    name: "Sultanhisar"
+    city_id: 9
+  -
+    id: 125
+    name: "Didim(Yenihisar)"
+    city_id: 9
+  -
+    id: 126
+    name: "Yenipazar"
+    city_id: 9
+  -
+    id: 127
+    name: "Balıkesir"
+    city_id: 10
+  -
+    id: 128
+    name: "Ayvalık"
+    city_id: 10
+  -
+    id: 129
+    name: "Balya"
+    city_id: 10
+  -
+    id: 130
+    name: "Bandırma"
+    city_id: 10
+  -
+    id: 131
+    name: "Bigadiç"
+    city_id: 10
+  -
+    id: 132
+    name: "Burhaniye"
+    city_id: 10
+  -
+    id: 133
+    name: "Dursunbey"
+    city_id: 10
+  -
+    id: 134
+    name: "Edremit"
+    city_id: 10
+  -
+    id: 135
+    name: "Erdek"
+    city_id: 10
+  -
+    id: 136
+    name: "Gömeç"
+    city_id: 10
+  -
+    id: 137
+    name: "Gönen"
+    city_id: 10
+  -
+    id: 138
+    name: "Havran"
+    city_id: 10
+  -
+    id: 139
+    name: "İvrindi"
+    city_id: 10
+  -
+    id: 140
+    name: "Kepsut"
+    city_id: 10
+  -
+    id: 141
+    name: "Manyas"
+    city_id: 10
+  -
+    id: 142
+    name: "Marmara"
+    city_id: 10
+  -
+    id: 143
+    name: "Savaştepe"
+    city_id: 10
+  -
+    id: 144
+    name: "Sındırgı"
+    city_id: 10
+  -
+    id: 145
+    name: "Susurluk"
+    city_id: 10
+  -
+    id: 146
+    name: "Bilecik"
+    city_id: 11
+  -
+    id: 147
+    name: "Bozüyük"
+    city_id: 11
+  -
+    id: 148
+    name: "Gölpazarı"
+    city_id: 11
+  -
+    id: 149
+    name: "İnhisar"
+    city_id: 11
+  -
+    id: 150
+    name: "Osmaneli"
+    city_id: 11
+  -
+    id: 151
+    name: "Pazaryeri"
+    city_id: 11
+  -
+    id: 152
+    name: "Söğüt"
+    city_id: 11
+  -
+    id: 153
+    name: "Yenipazar"
+    city_id: 11
+  -
+    id: 154
+    name: "Bingöl"
+    city_id: 12
+  -
+    id: 155
+    name: "Adaklı"
+    city_id: 12
+  -
+    id: 156
+    name: "Genç"
+    city_id: 12
+  -
+    id: 157
+    name: "Karlıova"
+    city_id: 12
+  -
+    id: 158
+    name: "Kığı"
+    city_id: 12
+  -
+    id: 159
+    name: "Solhan"
+    city_id: 12
+  -
+    id: 160
+    name: "Yayladere"
+    city_id: 12
+  -
+    id: 161
+    name: "Yedisu"
+    city_id: 12
+  -
+    id: 162
+    name: "Bitlis"
+    city_id: 13
+  -
+    id: 163
+    name: "Addistrictsvaz"
+    city_id: 13
+  -
+    id: 164
+    name: "Ahlat"
+    city_id: 13
+  -
+    id: 165
+    name: "Güroymak"
+    city_id: 13
+  -
+    id: 166
+    name: "Hizan"
+    city_id: 13
+  -
+    id: 167
+    name: "Mutki"
+    city_id: 13
+  -
+    id: 168
+    name: "Tatvan"
+    city_id: 13
+  -
+    id: 169
+    name: "Bolu"
+    city_id: 14
+  -
+    id: 170
+    name: "Dörtdivan"
+    city_id: 14
+  -
+    id: 171
+    name: "Gerede"
+    city_id: 14
+  -
+    id: 172
+    name: "Göynük"
+    city_id: 14
+  -
+    id: 173
+    name: "Kıbrıscık"
+    city_id: 14
+  -
+    id: 174
+    name: "Mengen"
+    city_id: 14
+  -
+    id: 175
+    name: "Mudurnu"
+    city_id: 14
+  -
+    id: 176
+    name: "Seben"
+    city_id: 14
+  -
+    id: 177
+    name: "Yeniçağa"
+    city_id: 14
+  -
+    id: 178
+    name: "Burdur"
+    city_id: 15
+  -
+    id: 179
+    name: "Ağlasun"
+    city_id: 15
+  -
+    id: 180
+    name: "Altınyayla(Dirmil)"
+    city_id: 15
+  -
+    id: 181
+    name: "Bucak"
+    city_id: 15
+  -
+    id: 182
+    name: "Çavdır"
+    city_id: 15
+  -
+    id: 183
+    name: "Çeltikçi"
+    city_id: 15
+  -
+    id: 184
+    name: "Gölhisar"
+    city_id: 15
+  -
+    id: 185
+    name: "Karamanlı"
+    city_id: 15
+  -
+    id: 186
+    name: "Kemer"
+    city_id: 15
+  -
+    id: 187
+    name: "Tefenni"
+    city_id: 15
+  -
+    id: 188
+    name: "Yeşilova"
+    city_id: 15
+  -
+    id: 189
+    name: "Nilüfer"
+    city_id: 16
+  -
+    id: 190
+    name: "Osmangazi"
+    city_id: 16
+  -
+    id: 191
+    name: "Yıldırım"
+    city_id: 16
+  -
+    id: 192
+    name: "Büyükorhan"
+    city_id: 16
+  -
+    id: 193
+    name: "Gemlik"
+    city_id: 16
+  -
+    id: 194
+    name: "Gürsu"
+    city_id: 16
+  -
+    id: 195
+    name: "Harmancık"
+    city_id: 16
+  -
+    id: 196
+    name: "İnegöl"
+    city_id: 16
+  -
+    id: 197
+    name: "İznik"
+    city_id: 16
+  -
+    id: 198
+    name: "Karacabey"
+    city_id: 16
+  -
+    id: 199
+    name: "Keles"
+    city_id: 16
+  -
+    id: 200
+    name: "Kestel"
+    city_id: 16
+  -
+    id: 201
+    name: "Mudanya"
+    city_id: 16
+  -
+    id: 202
+    name: "Mustafakemalpaşa"
+    city_id: 16
+  -
+    id: 203
+    name: "Orhaneli"
+    city_id: 16
+  -
+    id: 204
+    name: "Orhangazi"
+    city_id: 16
+  -
+    id: 205
+    name: "Yenişehir"
+    city_id: 16
+  -
+    id: 206
+    name: "Çanakkale"
+    city_id: 17
+  -
+    id: 207
+    name: "Ayvacık"
+    city_id: 17
+  -
+    id: 208
+    name: "Bayramiç"
+    city_id: 17
+  -
+    id: 209
+    name: "Biga"
+    city_id: 17
+  -
+    id: 210
+    name: "Bozcaada"
+    city_id: 17
+  -
+    id: 211
+    name: "Çan"
+    city_id: 17
+  -
+    id: 212
+    name: "Eceabat"
+    city_id: 17
+  -
+    id: 213
+    name: "Ezine"
+    city_id: 17
+  -
+    id: 214
+    name: "Gelibolu"
+    city_id: 17
+  -
+    id: 215
+    name: "Gökçeada(İmroz)"
+    city_id: 17
+  -
+    id: 216
+    name: "Lapseki"
+    city_id: 17
+  -
+    id: 217
+    name: "Yenice"
+    city_id: 17
+  -
+    id: 218
+    name: "Çankırı"
+    city_id: 18
+  -
+    id: 219
+    name: "Atkaracalar"
+    city_id: 18
+  -
+    id: 220
+    name: "Bayramören"
+    city_id: 18
+  -
+    id: 221
+    name: "Çerkeş"
+    city_id: 18
+  -
+    id: 222
+    name: "Eldivan"
+    city_id: 18
+  -
+    id: 223
+    name: "Ilgaz"
+    city_id: 18
+  -
+    id: 224
+    name: "Kızılırmak"
+    city_id: 18
+  -
+    id: 225
+    name: "Korgun"
+    city_id: 18
+  -
+    id: 226
+    name: "Kurşunlu"
+    city_id: 18
+  -
+    id: 227
+    name: "Orta"
+    city_id: 18
+  -
+    id: 228
+    name: "Şabanözü"
+    city_id: 18
+  -
+    id: 229
+    name: "Yapraklı"
+    city_id: 18
+  -
+    id: 230
+    name: "Çorum"
+    city_id: 19
+  -
+    id: 231
+    name: "Alaca"
+    city_id: 19
+  -
+    id: 232
+    name: "Bayat"
+    city_id: 19
+  -
+    id: 233
+    name: "Boğazkale"
+    city_id: 19
+  -
+    id: 234
+    name: "Dodurga"
+    city_id: 19
+  -
+    id: 235
+    name: "İskilip"
+    city_id: 19
+  -
+    id: 236
+    name: "Kargı"
+    city_id: 19
+  -
+    id: 237
+    name: "Laçin"
+    city_id: 19
+  -
+    id: 238
+    name: "Mecitözü"
+    city_id: 19
+  -
+    id: 239
+    name: "Oğuzlar(Karaören)"
+    city_id: 19
+  -
+    id: 240
+    name: "Ortaköy"
+    city_id: 19
+  -
+    id: 241
+    name: "Osmancık"
+    city_id: 19
+  -
+    id: 242
+    name: "Sungurlu"
+    city_id: 19
+  -
+    id: 243
+    name: "Uğurludağ"
+    city_id: 19
+  -
+    id: 244
+    name: "Denizli"
+    city_id: 20
+  -
+    id: 245
+    name: "Acıpayam"
+    city_id: 20
+  -
+    id: 246
+    name: "Akköy"
+    city_id: 20
+  -
+    id: 247
+    name: "Babadağ"
+    city_id: 20
+  -
+    id: 248
+    name: "Baklan"
+    city_id: 20
+  -
+    id: 249
+    name: "Bekilli"
+    city_id: 20
+  -
+    id: 250
+    name: "Beyağaç"
+    city_id: 20
+  -
+    id: 251
+    name: "Bozkurt"
+    city_id: 20
+  -
+    id: 252
+    name: "Buldan"
+    city_id: 20
+  -
+    id: 253
+    name: "Çal"
+    city_id: 20
+  -
+    id: 254
+    name: "Çameli"
+    city_id: 20
+  -
+    id: 255
+    name: "Çardak"
+    city_id: 20
+  -
+    id: 256
+    name: "Çivril"
+    city_id: 20
+  -
+    id: 257
+    name: "Güney"
+    city_id: 20
+  -
+    id: 258
+    name: "Honaz"
+    city_id: 20
+  -
+    id: 259
+    name: "Kale"
+    city_id: 20
+  -
+    id: 260
+    name: "Sarayköy"
+    city_id: 20
+  -
+    id: 261
+    name: "Serinhisar"
+    city_id: 20
+  -
+    id: 262
+    name: "Tavas"
+    city_id: 20
+  -
+    id: 263
+    name: "Sur"
+    city_id: 21
+  -
+    id: 264
+    name: "Bağlar"
+    city_id: 21
+  -
+    id: 265
+    name: "Yenişehir"
+    city_id: 21
+  -
+    id: 266
+    name: "Kayapınar"
+    city_id: 21
+  -
+    id: 267
+    name: "Bismil"
+    city_id: 21
+  -
+    id: 268
+    name: "Çermik"
+    city_id: 21
+  -
+    id: 269
+    name: "Çınar"
+    city_id: 21
+  -
+    id: 270
+    name: "Çüngüş"
+    city_id: 21
+  -
+    id: 271
+    name: "Dicle"
+    city_id: 21
+  -
+    id: 272
+    name: "Eğil"
+    city_id: 21
+  -
+    id: 273
+    name: "Ergani"
+    city_id: 21
+  -
+    id: 274
+    name: "Hani"
+    city_id: 21
+  -
+    id: 275
+    name: "Hazro"
+    city_id: 21
+  -
+    id: 276
+    name: "Kocaköy"
+    city_id: 21
+  -
+    id: 277
+    name: "Kulp"
+    city_id: 21
+  -
+    id: 278
+    name: "Lice"
+    city_id: 21
+  -
+    id: 279
+    name: "Silvan"
+    city_id: 21
+  -
+    id: 280
+    name: "Edirne"
+    city_id: 22
+  -
+    id: 281
+    name: "Enez"
+    city_id: 22
+  -
+    id: 282
+    name: "Havsa"
+    city_id: 22
+  -
+    id: 283
+    name: "İpsala"
+    city_id: 22
+  -
+    id: 284
+    name: "Keşan"
+    city_id: 22
+  -
+    id: 285
+    name: "Lalapaşa"
+    city_id: 22
+  -
+    id: 286
+    name: "Meriç"
+    city_id: 22
+  -
+    id: 287
+    name: "Süleoğlu(Süloğlu)"
+    city_id: 22
+  -
+    id: 288
+    name: "Uzunköprü"
+    city_id: 22
+  -
+    id: 289
+    name: "Elazığ"
+    city_id: 23
+  -
+    id: 290
+    name: "Ağın"
+    city_id: 23
+  -
+    id: 291
+    name: "Alacakaya"
+    city_id: 23
+  -
+    id: 292
+    name: "Arıcak"
+    city_id: 23
+  -
+    id: 293
+    name: "Baskil"
+    city_id: 23
+  -
+    id: 294
+    name: "Karakoçan"
+    city_id: 23
+  -
+    id: 295
+    name: "Keban"
+    city_id: 23
+  -
+    id: 296
+    name: "Kovancılar"
+    city_id: 23
+  -
+    id: 297
+    name: "Maden"
+    city_id: 23
+  -
+    id: 298
+    name: "Palu"
+    city_id: 23
+  -
+    id: 299
+    name: "Sivrice"
+    city_id: 23
+  -
+    id: 300
+    name: "Erzincan"
+    city_id: 24
+  -
+    id: 301
+    name: "Çayırlı"
+    city_id: 24
+  -
+    id: 302
+    name: "İliç(Ilıç)"
+    city_id: 24
+  -
+    id: 303
+    name: "Kemah"
+    city_id: 24
+  -
+    id: 304
+    name: "Kemaliye"
+    city_id: 24
+  -
+    id: 305
+    name: "Otlukbeli"
+    city_id: 24
+  -
+    id: 306
+    name: "Refahiye"
+    city_id: 24
+  -
+    id: 307
+    name: "Tercan"
+    city_id: 24
+  -
+    id: 308
+    name: "Üzümlü"
+    city_id: 24
+  -
+    id: 309
+    name: "Palandöken"
+    city_id: 25
+  -
+    id: 310
+    name: "Yakutiye"
+    city_id: 25
+  -
+    id: 311
+    name: "Aziziye(Ilıca)"
+    city_id: 25
+  -
+    id: 312
+    name: "Aşkale"
+    city_id: 25
+  -
+    id: 313
+    name: "Çat"
+    city_id: 25
+  -
+    id: 314
+    name: "Hınıs"
+    city_id: 25
+  -
+    id: 315
+    name: "Horasan"
+    city_id: 25
+  -
+    id: 316
+    name: "İspir"
+    city_id: 25
+  -
+    id: 317
+    name: "Karaçoban"
+    city_id: 25
+  -
+    id: 318
+    name: "Karayazı"
+    city_id: 25
+  -
+    id: 319
+    name: "Köprüköy"
+    city_id: 25
+  -
+    id: 320
+    name: "Narman"
+    city_id: 25
+  -
+    id: 321
+    name: "Oltu"
+    city_id: 25
+  -
+    id: 322
+    name: "Olur"
+    city_id: 25
+  -
+    id: 323
+    name: "Pasinler"
+    city_id: 25
+  -
+    id: 324
+    name: "Pazaryolu"
+    city_id: 25
+  -
+    id: 325
+    name: "Şenkaya"
+    city_id: 25
+  -
+    id: 326
+    name: "Tekman"
+    city_id: 25
+  -
+    id: 327
+    name: "Tortum"
+    city_id: 25
+  -
+    id: 328
+    name: "Uzundere"
+    city_id: 25
+  -
+    id: 329
+    name: "Odunpazarı"
+    city_id: 26
+  -
+    id: 330
+    name: "Tepebaşı"
+    city_id: 26
+  -
+    id: 331
+    name: "Alpu"
+    city_id: 26
+  -
+    id: 332
+    name: "Beylikova"
+    city_id: 26
+  -
+    id: 333
+    name: "Çifteler"
+    city_id: 26
+  -
+    id: 334
+    name: "Günyüzü"
+    city_id: 26
+  -
+    id: 335
+    name: "Han"
+    city_id: 26
+  -
+    id: 336
+    name: "İnönü"
+    city_id: 26
+  -
+    id: 337
+    name: "Mahmudiye"
+    city_id: 26
+  -
+    id: 338
+    name: "Mihalgazi"
+    city_id: 26
+  -
+    id: 339
+    name: "Mihalıçcık"
+    city_id: 26
+  -
+    id: 340
+    name: "Sarıcakaya"
+    city_id: 26
+  -
+    id: 341
+    name: "Seyitgazi"
+    city_id: 26
+  -
+    id: 342
+    name: "Sivrihisar"
+    city_id: 26
+  -
+    id: 343
+    name: "Şahinbey"
+    city_id: 27
+  -
+    id: 344
+    name: "Şehitkamil"
+    city_id: 27
+  -
+    id: 345
+    name: "Oğuzeli"
+    city_id: 27
+  -
+    id: 346
+    name: "Araban"
+    city_id: 27
+  -
+    id: 347
+    name: "İslahiye"
+    city_id: 27
+  -
+    id: 348
+    name: "Karkamış"
+    city_id: 27
+  -
+    id: 349
+    name: "Nizip"
+    city_id: 27
+  -
+    id: 350
+    name: "Nurdağı"
+    city_id: 27
+  -
+    id: 351
+    name: "Yavuzeli"
+    city_id: 27
+  -
+    id: 352
+    name: "Giresun"
+    city_id: 28
+  -
+    id: 353
+    name: "Alucra"
+    city_id: 28
+  -
+    id: 354
+    name: "Bulancak"
+    city_id: 28
+  -
+    id: 355
+    name: "Çamoluk"
+    city_id: 28
+  -
+    id: 356
+    name: "Çanakçı"
+    city_id: 28
+  -
+    id: 357
+    name: "Dereli"
+    city_id: 28
+  -
+    id: 358
+    name: "Doğankent"
+    city_id: 28
+  -
+    id: 359
+    name: "Espiye"
+    city_id: 28
+  -
+    id: 360
+    name: "Eynesil"
+    city_id: 28
+  -
+    id: 361
+    name: "Görele"
+    city_id: 28
+  -
+    id: 362
+    name: "Güce"
+    city_id: 28
+  -
+    id: 363
+    name: "Keşap"
+    city_id: 28
+  -
+    id: 364
+    name: "Piraziz"
+    city_id: 28
+  -
+    id: 365
+    name: "Şebinkarahisar"
+    city_id: 28
+  -
+    id: 366
+    name: "Tirebolu"
+    city_id: 28
+  -
+    id: 367
+    name: "Yağlıdere"
+    city_id: 28
+  -
+    id: 368
+    name: "Gümüşhane"
+    city_id: 29
+  -
+    id: 369
+    name: "Kelkit"
+    city_id: 29
+  -
+    id: 370
+    name: "Köse"
+    city_id: 29
+  -
+    id: 371
+    name: "Kürtün"
+    city_id: 29
+  -
+    id: 372
+    name: "Şiran"
+    city_id: 29
+  -
+    id: 373
+    name: "Torul"
+    city_id: 29
+  -
+    id: 374
+    name: "Hakkari"
+    city_id: 30
+  -
+    id: 375
+    name: "Çukurca"
+    city_id: 30
+  -
+    id: 376
+    name: "Şemdinli"
+    city_id: 30
+  -
+    id: 377
+    name: "Yüksekova"
+    city_id: 30
+  -
+    id: 378
+    name: "Antakya"
+    city_id: 31
+  -
+    id: 379
+    name: "Altınözü"
+    city_id: 31
+  -
+    id: 380
+    name: "Belen"
+    city_id: 31
+  -
+    id: 381
+    name: "Dörtyol"
+    city_id: 31
+  -
+    id: 382
+    name: "Erzin"
+    city_id: 31
+  -
+    id: 383
+    name: "Hassa"
+    city_id: 31
+  -
+    id: 384
+    name: "İskenderun"
+    city_id: 31
+  -
+    id: 385
+    name: "Kırıkhan"
+    city_id: 31
+  -
+    id: 386
+    name: "Kumlu"
+    city_id: 31
+  -
+    id: 387
+    name: "Reyhanlı"
+    city_id: 31
+  -
+    id: 388
+    name: "Samandağ"
+    city_id: 31
+  -
+    id: 389
+    name: "Yayladağı"
+    city_id: 31
+  -
+    id: 390
+    name: "Isparta"
+    city_id: 32
+  -
+    id: 391
+    name: "Aksu"
+    city_id: 32
+  -
+    id: 392
+    name: "Atabey"
+    city_id: 32
+  -
+    id: 393
+    name: "Eğridir(Eğirdir)"
+    city_id: 32
+  -
+    id: 394
+    name: "Gelendost"
+    city_id: 32
+  -
+    id: 395
+    name: "Gönen"
+    city_id: 32
+  -
+    id: 396
+    name: "Keçiborlu"
+    city_id: 32
+  -
+    id: 397
+    name: "Senirkent"
+    city_id: 32
+  -
+    id: 398
+    name: "Sütçüler"
+    city_id: 32
+  -
+    id: 399
+    name: "Şarkikaraağaç"
+    city_id: 32
+  -
+    id: 400
+    name: "Uluborlu"
+    city_id: 32
+  -
+    id: 401
+    name: "Yalvaç"
+    city_id: 32
+  -
+    id: 402
+    name: "Yenişarbademli"
+    city_id: 32
+  -
+    id: 403
+    name: "Akdeniz"
+    city_id: 33
+  -
+    id: 404
+    name: "Yenişehir"
+    city_id: 33
+  -
+    id: 405
+    name: "Toroslar"
+    city_id: 33
+  -
+    id: 406
+    name: "Mezitli"
+    city_id: 33
+  -
+    id: 407
+    name: "Anamur"
+    city_id: 33
+  -
+    id: 408
+    name: "Aydıncık"
+    city_id: 33
+  -
+    id: 409
+    name: "Bozyazı"
+    city_id: 33
+  -
+    id: 410
+    name: "Çamlıyayla"
+    city_id: 33
+  -
+    id: 411
+    name: "Erdemli"
+    city_id: 33
+  -
+    id: 412
+    name: "Gülnar(Gülpınar)"
+    city_id: 33
+  -
+    id: 413
+    name: "Mut"
+    city_id: 33
+  -
+    id: 414
+    name: "Silifke"
+    city_id: 33
+  -
+    id: 415
+    name: "Tarsus"
+    city_id: 33
+  -
+    id: 416
+    name: "Bakırköy"
+    city_id: 34
+  -
+    id: 417
+    name: "Bayrampaşa"
+    city_id: 34
+  -
+    id: 418
+    name: "Beşiktaş"
+    city_id: 34
+  -
+    id: 419
+    name: "Beyoğlu"
+    city_id: 34
+  -
+    id: 420
+    name: "Arnavutköy"
+    city_id: 34
+  -
+    id: 421
+    name: "Eyüp"
+    city_id: 34
+  -
+    id: 422
+    name: "Fatih"
+    city_id: 34
+  -
+    id: 423
+    name: "Gaziosmanpaşa"
+    city_id: 34
+  -
+    id: 424
+    name: "Kağıthane"
+    city_id: 34
+  -
+    id: 425
+    name: "Küçükçekmece"
+    city_id: 34
+  -
+    id: 426
+    name: "Sarıyer"
+    city_id: 34
+  -
+    id: 427
+    name: "Şişli"
+    city_id: 34
+  -
+    id: 428
+    name: "Zeytinburnu"
+    city_id: 34
+  -
+    id: 429
+    name: "Avcılar"
+    city_id: 34
+  -
+    id: 430
+    name: "Güngören"
+    city_id: 34
+  -
+    id: 431
+    name: "Bahçelievler"
+    city_id: 34
+  -
+    id: 432
+    name: "Bağcılar"
+    city_id: 34
+  -
+    id: 433
+    name: "Esenler"
+    city_id: 34
+  -
+    id: 434
+    name: "Başakşehir"
+    city_id: 34
+  -
+    id: 435
+    name: "Beylikdüzü"
+    city_id: 34
+  -
+    id: 436
+    name: "Esenyurt"
+    city_id: 34
+  -
+    id: 437
+    name: "Sultangazi"
+    city_id: 34
+  -
+    id: 438
+    name: "Adalar"
+    city_id: 34
+  -
+    id: 439
+    name: "Beykoz"
+    city_id: 34
+  -
+    id: 440
+    name: "Kadıköy"
+    city_id: 34
+  -
+    id: 441
+    name: "Kartal"
+    city_id: 34
+  -
+    id: 442
+    name: "Pendik"
+    city_id: 34
+  -
+    id: 443
+    name: "Ümraniye"
+    city_id: 34
+  -
+    id: 444
+    name: "Üsküdar"
+    city_id: 34
+  -
+    id: 445
+    name: "Tuzla"
+    city_id: 34
+  -
+    id: 446
+    name: "Maltepe"
+    city_id: 34
+  -
+    id: 447
+    name: "Ataşehir"
+    city_id: 34
+  -
+    id: 448
+    name: "Çekmeköy"
+    city_id: 34
+  -
+    id: 449
+    name: "Sancaktepe"
+    city_id: 34
+  -
+    id: 450
+    name: "Büyükçekmece"
+    city_id: 34
+  -
+    id: 451
+    name: "Çatalca"
+    city_id: 34
+  -
+    id: 452
+    name: "Silivri"
+    city_id: 34
+  -
+    id: 453
+    name: "Şile"
+    city_id: 34
+  -
+    id: 454
+    name: "Sultanbeyli"
+    city_id: 34
+  -
+    id: 455
+    name: "Aliağa"
+    city_id: 35
+  -
+    id: 456
+    name: "Balçova"
+    city_id: 35
+  -
+    id: 457
+    name: "Bayındır"
+    city_id: 35
+  -
+    id: 458
+    name: "Bornova"
+    city_id: 35
+  -
+    id: 459
+    name: "Buca"
+    city_id: 35
+  -
+    id: 460
+    name: "Çiğli"
+    city_id: 35
+  -
+    id: 461
+    name: "Foça"
+    city_id: 35
+  -
+    id: 462
+    name: "Gaziemir"
+    city_id: 35
+  -
+    id: 463
+    name: "Güzelbahçe"
+    city_id: 35
+  -
+    id: 464
+    name: "Karşıyaka"
+    city_id: 35
+  -
+    id: 465
+    name: "Kemalpaşa"
+    city_id: 35
+  -
+    id: 466
+    name: "Konak"
+    city_id: 35
+  -
+    id: 467
+    name: "Cumaovası(Menderes)"
+    city_id: 35
+  -
+    id: 468
+    name: "Menemen"
+    city_id: 35
+  -
+    id: 469
+    name: "Narlıdere"
+    city_id: 35
+  -
+    id: 470
+    name: "Seferihisar"
+    city_id: 35
+  -
+    id: 471
+    name: "Selçuk"
+    city_id: 35
+  -
+    id: 472
+    name: "Torbalı"
+    city_id: 35
+  -
+    id: 473
+    name: "Urla"
+    city_id: 35
+  -
+    id: 474
+    name: "Bayraklı"
+    city_id: 35
+  -
+    id: 475
+    name: "Karabağlar"
+    city_id: 35
+  -
+    id: 476
+    name: "Bergama"
+    city_id: 35
+  -
+    id: 477
+    name: "Beydağ"
+    city_id: 35
+  -
+    id: 478
+    name: "Çeşme"
+    city_id: 35
+  -
+    id: 479
+    name: "Dikili"
+    city_id: 35
+  -
+    id: 480
+    name: "Karaburun"
+    city_id: 35
+  -
+    id: 481
+    name: "Kınık"
+    city_id: 35
+  -
+    id: 482
+    name: "Kiraz"
+    city_id: 35
+  -
+    id: 483
+    name: "Ödemiş"
+    city_id: 35
+  -
+    id: 484
+    name: "Tire"
+    city_id: 35
+  -
+    id: 485
+    name: "Kars"
+    city_id: 36
+  -
+    id: 486
+    name: "Akyaka"
+    city_id: 36
+  -
+    id: 487
+    name: "Arpaçay"
+    city_id: 36
+  -
+    id: 488
+    name: "Digor"
+    city_id: 36
+  -
+    id: 489
+    name: "Kağızman"
+    city_id: 36
+  -
+    id: 490
+    name: "Sarıkamış"
+    city_id: 36
+  -
+    id: 491
+    name: "Selim"
+    city_id: 36
+  -
+    id: 492
+    name: "Susuz"
+    city_id: 36
+  -
+    id: 493
+    name: "Kastamonu"
+    city_id: 37
+  -
+    id: 494
+    name: "Abana"
+    city_id: 37
+  -
+    id: 495
+    name: "Ağlı"
+    city_id: 37
+  -
+    id: 496
+    name: "Araç"
+    city_id: 37
+  -
+    id: 497
+    name: "Azdavay"
+    city_id: 37
+  -
+    id: 498
+    name: "Bozkurt"
+    city_id: 37
+  -
+    id: 499
+    name: "Cide"
+    city_id: 37
+  -
+    id: 500
+    name: "Çatalzeytin"
+    city_id: 37
+  -
+    id: 501
+    name: "Daday"
+    city_id: 37
+  -
+    id: 502
+    name: "Devrekani"
+    city_id: 37
+  -
+    id: 503
+    name: "Doğanyurt"
+    city_id: 37
+  -
+    id: 504
+    name: "Hanönü(Gökçeağaç)"
+    city_id: 37
+  -
+    id: 505
+    name: "İhsangazi"
+    city_id: 37
+  -
+    id: 506
+    name: "İnebolu"
+    city_id: 37
+  -
+    id: 507
+    name: "Küre"
+    city_id: 37
+  -
+    id: 508
+    name: "Pınarbaşı"
+    city_id: 37
+  -
+    id: 509
+    name: "Seydiler"
+    city_id: 37
+  -
+    id: 510
+    name: "Şenpazar"
+    city_id: 37
+  -
+    id: 511
+    name: "Taşköprü"
+    city_id: 37
+  -
+    id: 512
+    name: "Tosya"
+    city_id: 37
+  -
+    id: 513
+    name: "Kocasinan"
+    city_id: 38
+  -
+    id: 514
+    name: "Melikgazi"
+    city_id: 38
+  -
+    id: 515
+    name: "Talas"
+    city_id: 38
+  -
+    id: 516
+    name: "Akkışla"
+    city_id: 38
+  -
+    id: 517
+    name: "Bünyan"
+    city_id: 38
+  -
+    id: 518
+    name: "Develi"
+    city_id: 38
+  -
+    id: 519
+    name: "Felahiye"
+    city_id: 38
+  -
+    id: 520
+    name: "Hacılar"
+    city_id: 38
+  -
+    id: 521
+    name: "İncesu"
+    city_id: 38
+  -
+    id: 522
+    name: "Özvatan(Çukur)"
+    city_id: 38
+  -
+    id: 523
+    name: "Pınarbaşı"
+    city_id: 38
+  -
+    id: 524
+    name: "Sarıoğlan"
+    city_id: 38
+  -
+    id: 525
+    name: "Sarız"
+    city_id: 38
+  -
+    id: 526
+    name: "Tomarza"
+    city_id: 38
+  -
+    id: 527
+    name: "Yahyalı"
+    city_id: 38
+  -
+    id: 528
+    name: "Yeşilhisar"
+    city_id: 38
+  -
+    id: 529
+    name: "Kırklareli"
+    city_id: 39
+  -
+    id: 530
+    name: "Babaeski"
+    city_id: 39
+  -
+    id: 531
+    name: "Demirköy"
+    city_id: 39
+  -
+    id: 532
+    name: "Kofçaz"
+    city_id: 39
+  -
+    id: 533
+    name: "Lüleburgaz"
+    city_id: 39
+  -
+    id: 534
+    name: "Pehlivanköy"
+    city_id: 39
+  -
+    id: 535
+    name: "Pınarhisar"
+    city_id: 39
+  -
+    id: 536
+    name: "Vize"
+    city_id: 39
+  -
+    id: 537
+    name: "Kırşehir"
+    city_id: 40
+  -
+    id: 538
+    name: "Akçakent"
+    city_id: 40
+  -
+    id: 539
+    name: "Akpınar"
+    city_id: 40
+  -
+    id: 540
+    name: "Boztepe"
+    city_id: 40
+  -
+    id: 541
+    name: "Çiçekdağı"
+    city_id: 40
+  -
+    id: 542
+    name: "Kaman"
+    city_id: 40
+  -
+    id: 543
+    name: "Mucur"
+    city_id: 40
+  -
+    id: 544
+    name: "İzmit"
+    city_id: 41
+  -
+    id: 545
+    name: "Başiskele"
+    city_id: 41
+  -
+    id: 546
+    name: "Çayırova"
+    city_id: 41
+  -
+    id: 547
+    name: "Darıca"
+    city_id: 41
+  -
+    id: 548
+    name: "Dilovası"
+    city_id: 41
+  -
+    id: 549
+    name: "Kartepe"
+    city_id: 41
+  -
+    id: 550
+    name: "Gebze"
+    city_id: 41
+  -
+    id: 551
+    name: "Gölcük"
+    city_id: 41
+  -
+    id: 552
+    name: "Kandıra"
+    city_id: 41
+  -
+    id: 553
+    name: "Karamürsel"
+    city_id: 41
+  -
+    id: 554
+    name: "Tütünçiftlik"
+    city_id: 41
+  -
+    id: 555
+    name: "Derince"
+    city_id: 41
+  -
+    id: 556
+    name: "Karatay"
+    city_id: 42
+  -
+    id: 557
+    name: "Meram"
+    city_id: 42
+  -
+    id: 558
+    name: "Selçuklu"
+    city_id: 42
+  -
+    id: 559
+    name: "Ahırlı"
+    city_id: 42
+  -
+    id: 560
+    name: "Akören"
+    city_id: 42
+  -
+    id: 561
+    name: "Akşehir"
+    city_id: 42
+  -
+    id: 562
+    name: "Altınekin"
+    city_id: 42
+  -
+    id: 563
+    name: "Beyşehir"
+    city_id: 42
+  -
+    id: 564
+    name: "Bozkır"
+    city_id: 42
+  -
+    id: 565
+    name: "Cihanbeyli"
+    city_id: 42
+  -
+    id: 566
+    name: "Çeltik"
+    city_id: 42
+  -
+    id: 567
+    name: "Çumra"
+    city_id: 42
+  -
+    id: 568
+    name: "Derbent"
+    city_id: 42
+  -
+    id: 569
+    name: "Derebucak"
+    city_id: 42
+  -
+    id: 570
+    name: "Doğanhisar"
+    city_id: 42
+  -
+    id: 571
+    name: "Emirgazi"
+    city_id: 42
+  -
+    id: 572
+    name: "Ereğli"
+    city_id: 42
+  -
+    id: 573
+    name: "Güneysınır"
+    city_id: 42
+  -
+    id: 574
+    name: "Hadim"
+    city_id: 42
+  -
+    id: 575
+    name: "Halkapınar"
+    city_id: 42
+  -
+    id: 576
+    name: "Hüyük"
+    city_id: 42
+  -
+    id: 577
+    name: "Ilgın"
+    city_id: 42
+  -
+    id: 578
+    name: "Kadınhanı"
+    city_id: 42
+  -
+    id: 579
+    name: "Karapınar"
+    city_id: 42
+  -
+    id: 580
+    name: "Kulu"
+    city_id: 42
+  -
+    id: 581
+    name: "Sarayönü"
+    city_id: 42
+  -
+    id: 582
+    name: "Seydişehir"
+    city_id: 42
+  -
+    id: 583
+    name: "Taşkent"
+    city_id: 42
+  -
+    id: 584
+    name: "Tuzlukçu"
+    city_id: 42
+  -
+    id: 585
+    name: "Yalıhüyük"
+    city_id: 42
+  -
+    id: 586
+    name: "Yunak"
+    city_id: 42
+  -
+    id: 587
+    name: "Kütahya"
+    city_id: 43
+  -
+    id: 588
+    name: "Altıntaş"
+    city_id: 43
+  -
+    id: 589
+    name: "Aslanapa"
+    city_id: 43
+  -
+    id: 590
+    name: "Çavdarhisar"
+    city_id: 43
+  -
+    id: 591
+    name: "Domaniç"
+    city_id: 43
+  -
+    id: 592
+    name: "Dumlupınar"
+    city_id: 43
+  -
+    id: 593
+    name: "Emet"
+    city_id: 43
+  -
+    id: 594
+    name: "Gediz"
+    city_id: 43
+  -
+    id: 595
+    name: "Hisarcık"
+    city_id: 43
+  -
+    id: 596
+    name: "Pazarlar"
+    city_id: 43
+  -
+    id: 597
+    name: "Simav"
+    city_id: 43
+  -
+    id: 598
+    name: "Şaphane"
+    city_id: 43
+  -
+    id: 599
+    name: "Tavşanlı"
+    city_id: 43
+  -
+    id: 600
+    name: "Tunçbilek"
+    city_id: 43
+  -
+    id: 601
+    name: "Malatya"
+    city_id: 44
+  -
+    id: 602
+    name: "Akçadağ"
+    city_id: 44
+  -
+    id: 603
+    name: "Arapkir"
+    city_id: 44
+  -
+    id: 604
+    name: "Arguvan"
+    city_id: 44
+  -
+    id: 605
+    name: "Battalgazi"
+    city_id: 44
+  -
+    id: 606
+    name: "Darende"
+    city_id: 44
+  -
+    id: 607
+    name: "Doğanşehir"
+    city_id: 44
+  -
+    id: 608
+    name: "Doğanyol"
+    city_id: 44
+  -
+    id: 609
+    name: "Hekimhan"
+    city_id: 44
+  -
+    id: 610
+    name: "Kale"
+    city_id: 44
+  -
+    id: 611
+    name: "Kuluncak"
+    city_id: 44
+  -
+    id: 612
+    name: "Pötürge"
+    city_id: 44
+  -
+    id: 613
+    name: "Yazıhan"
+    city_id: 44
+  -
+    id: 614
+    name: "Yeşilyurt"
+    city_id: 44
+  -
+    id: 615
+    name: "Manisa"
+    city_id: 45
+  -
+    id: 616
+    name: "Ahmetli"
+    city_id: 45
+  -
+    id: 617
+    name: "Akhisar"
+    city_id: 45
+  -
+    id: 618
+    name: "Alaşehir"
+    city_id: 45
+  -
+    id: 619
+    name: "Demirci"
+    city_id: 45
+  -
+    id: 620
+    name: "Gölmarmara"
+    city_id: 45
+  -
+    id: 621
+    name: "Gördes"
+    city_id: 45
+  -
+    id: 622
+    name: "Kırkağaç"
+    city_id: 45
+  -
+    id: 623
+    name: "Köprübaşı"
+    city_id: 45
+  -
+    id: 624
+    name: "Kula"
+    city_id: 45
+  -
+    id: 625
+    name: "Salihli"
+    city_id: 45
+  -
+    id: 626
+    name: "Sarıgöl"
+    city_id: 45
+  -
+    id: 627
+    name: "Saruhanlı"
+    city_id: 45
+  -
+    id: 628
+    name: "Selendi"
+    city_id: 45
+  -
+    id: 629
+    name: "Soma"
+    city_id: 45
+  -
+    id: 630
+    name: "Turgutlu"
+    city_id: 45
+  -
+    id: 631
+    name: "Kahramanmaraş"
+    city_id: 46
+  -
+    id: 632
+    name: "Afşin"
+    city_id: 46
+  -
+    id: 633
+    name: "Andırın"
+    city_id: 46
+  -
+    id: 634
+    name: "Çağlayancerit"
+    city_id: 46
+  -
+    id: 635
+    name: "Ekinözü"
+    city_id: 46
+  -
+    id: 636
+    name: "Elbistan"
+    city_id: 46
+  -
+    id: 637
+    name: "Göksun"
+    city_id: 46
+  -
+    id: 638
+    name: "Nurhak"
+    city_id: 46
+  -
+    id: 639
+    name: "Pazarcık"
+    city_id: 46
+  -
+    id: 640
+    name: "Türkoğlu"
+    city_id: 46
+  -
+    id: 641
+    name: "Mardin"
+    city_id: 47
+  -
+    id: 642
+    name: "Dargeçit"
+    city_id: 47
+  -
+    id: 643
+    name: "Derik"
+    city_id: 47
+  -
+    id: 644
+    name: "Kızıltepe"
+    city_id: 47
+  -
+    id: 645
+    name: "Mazıdağı"
+    city_id: 47
+  -
+    id: 646
+    name: "Midyat(Estel)"
+    city_id: 47
+  -
+    id: 647
+    name: "Nusaybin"
+    city_id: 47
+  -
+    id: 648
+    name: "Ömerli"
+    city_id: 47
+  -
+    id: 649
+    name: "Savur"
+    city_id: 47
+  -
+    id: 650
+    name: "Yeşilli"
+    city_id: 47
+  -
+    id: 651
+    name: "Muğla"
+    city_id: 48
+  -
+    id: 652
+    name: "Bodrum"
+    city_id: 48
+  -
+    id: 653
+    name: "Dalaman"
+    city_id: 48
+  -
+    id: 654
+    name: "Datça"
+    city_id: 48
+  -
+    id: 655
+    name: "Fethiye"
+    city_id: 48
+  -
+    id: 656
+    name: "Kavaklıdere"
+    city_id: 48
+  -
+    id: 657
+    name: "Köyceğiz"
+    city_id: 48
+  -
+    id: 658
+    name: "Marmaris"
+    city_id: 48
+  -
+    id: 659
+    name: "Milas"
+    city_id: 48
+  -
+    id: 660
+    name: "Ortaca"
+    city_id: 48
+  -
+    id: 661
+    name: "Ula"
+    city_id: 48
+  -
+    id: 662
+    name: "Yatağan"
+    city_id: 48
+  -
+    id: 663
+    name: "Muş"
+    city_id: 49
+  -
+    id: 664
+    name: "Bulanık"
+    city_id: 49
+  -
+    id: 665
+    name: "Hasköy"
+    city_id: 49
+  -
+    id: 666
+    name: "Korkut"
+    city_id: 49
+  -
+    id: 667
+    name: "Malazgirt"
+    city_id: 49
+  -
+    id: 668
+    name: "Varto"
+    city_id: 49
+  -
+    id: 669
+    name: "Nevşehir"
+    city_id: 50
+  -
+    id: 670
+    name: "Acıgöl"
+    city_id: 50
+  -
+    id: 671
+    name: "Avanos"
+    city_id: 50
+  -
+    id: 672
+    name: "Derinkuyu"
+    city_id: 50
+  -
+    id: 673
+    name: "Gülşehir"
+    city_id: 50
+  -
+    id: 674
+    name: "Hacıbektaş"
+    city_id: 50
+  -
+    id: 675
+    name: "Kozaklı"
+    city_id: 50
+  -
+    id: 676
+    name: "Ürgüp"
+    city_id: 50
+  -
+    id: 677
+    name: "Niğde"
+    city_id: 51
+  -
+    id: 678
+    name: "Altunhisar"
+    city_id: 51
+  -
+    id: 679
+    name: "Bor"
+    city_id: 51
+  -
+    id: 680
+    name: "Çamardı"
+    city_id: 51
+  -
+    id: 681
+    name: "Çiftlik(Özyurt)"
+    city_id: 51
+  -
+    id: 682
+    name: "Ulukışla"
+    city_id: 51
+  -
+    id: 683
+    name: "Ordu"
+    city_id: 52
+  -
+    id: 684
+    name: "Akkuş"
+    city_id: 52
+  -
+    id: 685
+    name: "Aybastı"
+    city_id: 52
+  -
+    id: 686
+    name: "Çamaş"
+    city_id: 52
+  -
+    id: 687
+    name: "Çatalpınar"
+    city_id: 52
+  -
+    id: 688
+    name: "Çaybaşı"
+    city_id: 52
+  -
+    id: 689
+    name: "Fatsa"
+    city_id: 52
+  -
+    id: 690
+    name: "Gölköy"
+    city_id: 52
+  -
+    id: 691
+    name: "Gülyalı"
+    city_id: 52
+  -
+    id: 692
+    name: "Gürgentepe"
+    city_id: 52
+  -
+    id: 693
+    name: "İkizce"
+    city_id: 52
+  -
+    id: 694
+    name: "Karadüz(Kabadüz)"
+    city_id: 52
+  -
+    id: 695
+    name: "Kabataş"
+    city_id: 52
+  -
+    id: 696
+    name: "Korgan"
+    city_id: 52
+  -
+    id: 697
+    name: "Kumru"
+    city_id: 52
+  -
+    id: 698
+    name: "Mesudiye"
+    city_id: 52
+  -
+    id: 699
+    name: "Perşembe"
+    city_id: 52
+  -
+    id: 700
+    name: "Ulubey"
+    city_id: 52
+  -
+    id: 701
+    name: "Ünye"
+    city_id: 52
+  -
+    id: 702
+    name: "Rize"
+    city_id: 53
+  -
+    id: 703
+    name: "Ardeşen"
+    city_id: 53
+  -
+    id: 704
+    name: "Çamlıhemşin"
+    city_id: 53
+  -
+    id: 705
+    name: "Çayeli"
+    city_id: 53
+  -
+    id: 706
+    name: "Derepazarı"
+    city_id: 53
+  -
+    id: 707
+    name: "Fındıklı"
+    city_id: 53
+  -
+    id: 708
+    name: "Güneysu"
+    city_id: 53
+  -
+    id: 709
+    name: "Hemşin"
+    city_id: 53
+  -
+    id: 710
+    name: "İkizdere"
+    city_id: 53
+  -
+    id: 711
+    name: "İyidere"
+    city_id: 53
+  -
+    id: 712
+    name: "Kalkandere"
+    city_id: 53
+  -
+    id: 713
+    name: "Pazar"
+    city_id: 53
+  -
+    id: 714
+    name: "Adapazarı"
+    city_id: 54
+  -
+    id: 715
+    name: "Hendek"
+    city_id: 54
+  -
+    id: 716
+    name: "Arifiye"
+    city_id: 54
+  -
+    id: 717
+    name: "Erenler"
+    city_id: 54
+  -
+    id: 718
+    name: "Serdivan"
+    city_id: 54
+  -
+    id: 719
+    name: "Akyazı"
+    city_id: 54
+  -
+    id: 720
+    name: "Ferizli"
+    city_id: 54
+  -
+    id: 721
+    name: "Geyve"
+    city_id: 54
+  -
+    id: 722
+    name: "Karapürçek"
+    city_id: 54
+  -
+    id: 723
+    name: "Karasu"
+    city_id: 54
+  -
+    id: 724
+    name: "Kaynarca"
+    city_id: 54
+  -
+    id: 725
+    name: "Kocaali"
+    city_id: 54
+  -
+    id: 726
+    name: "Pamukova"
+    city_id: 54
+  -
+    id: 727
+    name: "Sapanca"
+    city_id: 54
+  -
+    id: 728
+    name: "Söğütlü"
+    city_id: 54
+  -
+    id: 729
+    name: "Taraklı"
+    city_id: 54
+  -
+    id: 730
+    name: "Atakum"
+    city_id: 55
+  -
+    id: 731
+    name: "İlkadım"
+    city_id: 55
+  -
+    id: 732
+    name: "Canik"
+    city_id: 55
+  -
+    id: 733
+    name: "Tekkeköy"
+    city_id: 55
+  -
+    id: 734
+    name: "Alaçam"
+    city_id: 55
+  -
+    id: 735
+    name: "Asarcık"
+    city_id: 55
+  -
+    id: 736
+    name: "Ayvacık"
+    city_id: 55
+  -
+    id: 737
+    name: "Bafra"
+    city_id: 55
+  -
+    id: 738
+    name: "Çarşamba"
+    city_id: 55
+  -
+    id: 739
+    name: "Havza"
+    city_id: 55
+  -
+    id: 740
+    name: "Kavak"
+    city_id: 55
+  -
+    id: 741
+    name: "Ladik"
+    city_id: 55
+  -
+    id: 742
+    name: "19Mayıs(Ballıca)"
+    city_id: 55
+  -
+    id: 743
+    name: "Salıpazarı"
+    city_id: 55
+  -
+    id: 744
+    name: "Terme"
+    city_id: 55
+  -
+    id: 745
+    name: "Vezirköprü"
+    city_id: 55
+  -
+    id: 746
+    name: "Yakakent"
+    city_id: 55
+  -
+    id: 747
+    name: "Siirt"
+    city_id: 56
+  -
+    id: 748
+    name: "Baykan"
+    city_id: 56
+  -
+    id: 749
+    name: "Eruh"
+    city_id: 56
+  -
+    id: 750
+    name: "Kurtalan"
+    city_id: 56
+  -
+    id: 751
+    name: "Pervari"
+    city_id: 56
+  -
+    id: 752
+    name: "Aydınlar"
+    city_id: 56
+  -
+    id: 753
+    name: "Şirvan"
+    city_id: 56
+  -
+    id: 754
+    name: "Sinop"
+    city_id: 57
+  -
+    id: 755
+    name: "Ayancık"
+    city_id: 57
+  -
+    id: 756
+    name: "Boyabat"
+    city_id: 57
+  -
+    id: 757
+    name: "Dikmen"
+    city_id: 57
+  -
+    id: 758
+    name: "Durağan"
+    city_id: 57
+  -
+    id: 759
+    name: "Erfelek"
+    city_id: 57
+  -
+    id: 760
+    name: "Gerze"
+    city_id: 57
+  -
+    id: 761
+    name: "Saraydüzü"
+    city_id: 57
+  -
+    id: 762
+    name: "Türkeli"
+    city_id: 57
+  -
+    id: 763
+    name: "Sivas"
+    city_id: 58
+  -
+    id: 764
+    name: "Akıncılar"
+    city_id: 58
+  -
+    id: 765
+    name: "Altınyayla"
+    city_id: 58
+  -
+    id: 766
+    name: "Divriği"
+    city_id: 58
+  -
+    id: 767
+    name: "Doğanşar"
+    city_id: 58
+  -
+    id: 768
+    name: "Gemerek"
+    city_id: 58
+  -
+    id: 769
+    name: "Gölova"
+    city_id: 58
+  -
+    id: 770
+    name: "Gürün"
+    city_id: 58
+  -
+    id: 771
+    name: "Hafik"
+    city_id: 58
+  -
+    id: 772
+    name: "İmranlı"
+    city_id: 58
+  -
+    id: 773
+    name: "Kangal"
+    city_id: 58
+  -
+    id: 774
+    name: "Koyulhisar"
+    city_id: 58
+  -
+    id: 775
+    name: "Suşehri"
+    city_id: 58
+  -
+    id: 776
+    name: "Şarkışla"
+    city_id: 58
+  -
+    id: 777
+    name: "Ulaş"
+    city_id: 58
+  -
+    id: 778
+    name: "Yıldızeli"
+    city_id: 58
+  -
+    id: 779
+    name: "Zara"
+    city_id: 58
+  -
+    id: 780
+    name: "Tekirdağ"
+    city_id: 59
+  -
+    id: 781
+    name: "Çerkezköy"
+    city_id: 59
+  -
+    id: 782
+    name: "Çorlu"
+    city_id: 59
+  -
+    id: 783
+    name: "Hayrabolu"
+    city_id: 59
+  -
+    id: 784
+    name: "Malkara"
+    city_id: 59
+  -
+    id: 785
+    name: "Marmaraereğlisi"
+    city_id: 59
+  -
+    id: 786
+    name: "Muratlı"
+    city_id: 59
+  -
+    id: 787
+    name: "Saray"
+    city_id: 59
+  -
+    id: 788
+    name: "Şarköy"
+    city_id: 59
+  -
+    id: 789
+    name: "Tokat"
+    city_id: 60
+  -
+    id: 790
+    name: "Almus"
+    city_id: 60
+  -
+    id: 791
+    name: "Artova"
+    city_id: 60
+  -
+    id: 792
+    name: "Başçiftlik"
+    city_id: 60
+  -
+    id: 793
+    name: "Erbaa"
+    city_id: 60
+  -
+    id: 794
+    name: "Niksar"
+    city_id: 60
+  -
+    id: 795
+    name: "Pazar"
+    city_id: 60
+  -
+    id: 796
+    name: "Reşadiye"
+    city_id: 60
+  -
+    id: 797
+    name: "Sulusaray"
+    city_id: 60
+  -
+    id: 798
+    name: "Turhal"
+    city_id: 60
+  -
+    id: 799
+    name: "Yeşilyurt"
+    city_id: 60
+  -
+    id: 800
+    name: "Zile"
+    city_id: 60
+  -
+    id: 801
+    name: "Trabzon"
+    city_id: 61
+  -
+    id: 802
+    name: "Akçaabat"
+    city_id: 61
+  -
+    id: 803
+    name: "Araklı"
+    city_id: 61
+  -
+    id: 804
+    name: "Arsin"
+    city_id: 61
+  -
+    id: 805
+    name: "Beşikdüzü"
+    city_id: 61
+  -
+    id: 806
+    name: "Çarşıbaşı"
+    city_id: 61
+  -
+    id: 807
+    name: "Çaykara"
+    city_id: 61
+  -
+    id: 808
+    name: "Dernekpazarı"
+    city_id: 61
+  -
+    id: 809
+    name: "Düzköy"
+    city_id: 61
+  -
+    id: 810
+    name: "Hayrat"
+    city_id: 61
+  -
+    id: 811
+    name: "Köprübaşı"
+    city_id: 61
+  -
+    id: 812
+    name: "Maçka"
+    city_id: 61
+  -
+    id: 813
+    name: "Of"
+    city_id: 61
+  -
+    id: 814
+    name: "Sürmene"
+    city_id: 61
+  -
+    id: 815
+    name: "Şalpazarı"
+    city_id: 61
+  -
+    id: 816
+    name: "Tonya"
+    city_id: 61
+  -
+    id: 817
+    name: "Vakfıkebir"
+    city_id: 61
+  -
+    id: 818
+    name: "Yomra"
+    city_id: 61
+  -
+    id: 819
+    name: "Tunceli"
+    city_id: 62
+  -
+    id: 820
+    name: "Çemişgezek"
+    city_id: 62
+  -
+    id: 821
+    name: "Hozat"
+    city_id: 62
+  -
+    id: 822
+    name: "Mazgirt"
+    city_id: 62
+  -
+    id: 823
+    name: "Nazımiye"
+    city_id: 62
+  -
+    id: 824
+    name: "Ovacık"
+    city_id: 62
+  -
+    id: 825
+    name: "Pertek"
+    city_id: 62
+  -
+    id: 826
+    name: "Pülümür"
+    city_id: 62
+  -
+    id: 827
+    name: "Şanlıurfa"
+    city_id: 63
+  -
+    id: 828
+    name: "Akçakale"
+    city_id: 63
+  -
+    id: 829
+    name: "Birecik"
+    city_id: 63
+  -
+    id: 830
+    name: "Bozova"
+    city_id: 63
+  -
+    id: 831
+    name: "Ceylanpınar"
+    city_id: 63
+  -
+    id: 832
+    name: "Halfeti"
+    city_id: 63
+  -
+    id: 833
+    name: "Harran"
+    city_id: 63
+  -
+    id: 834
+    name: "Hilvan"
+    city_id: 63
+  -
+    id: 835
+    name: "Siverek"
+    city_id: 63
+  -
+    id: 836
+    name: "Suruç"
+    city_id: 63
+  -
+    id: 837
+    name: "Viranşehir"
+    city_id: 63
+  -
+    id: 838
+    name: "Uşak"
+    city_id: 64
+  -
+    id: 839
+    name: "Banaz"
+    city_id: 64
+  -
+    id: 840
+    name: "Eşme"
+    city_id: 64
+  -
+    id: 841
+    name: "Karahallı"
+    city_id: 64
+  -
+    id: 842
+    name: "Sivaslı"
+    city_id: 64
+  -
+    id: 843
+    name: "Ulubey"
+    city_id: 64
+  -
+    id: 844
+    name: "Van"
+    city_id: 65
+  -
+    id: 845
+    name: "Bahçesaray"
+    city_id: 65
+  -
+    id: 846
+    name: "Başkale"
+    city_id: 65
+  -
+    id: 847
+    name: "Çaldıran"
+    city_id: 65
+  -
+    id: 848
+    name: "Çatak"
+    city_id: 65
+  -
+    id: 849
+    name: "Edremit(Gümüşdere)"
+    city_id: 65
+  -
+    id: 850
+    name: "Erciş"
+    city_id: 65
+  -
+    id: 851
+    name: "Gevaş"
+    city_id: 65
+  -
+    id: 852
+    name: "Gürpınar"
+    city_id: 65
+  -
+    id: 853
+    name: "Muradiye"
+    city_id: 65
+  -
+    id: 854
+    name: "Özalp"
+    city_id: 65
+  -
+    id: 855
+    name: "Saray"
+    city_id: 65
+  -
+    id: 856
+    name: "Yozgat"
+    city_id: 66
+  -
+    id: 857
+    name: "Akdağmadeni"
+    city_id: 66
+  -
+    id: 858
+    name: "Aydıncık"
+    city_id: 66
+  -
+    id: 859
+    name: "Boğazlıyan"
+    city_id: 66
+  -
+    id: 860
+    name: "Çandır"
+    city_id: 66
+  -
+    id: 861
+    name: "Çayıralan"
+    city_id: 66
+  -
+    id: 862
+    name: "Çekerek"
+    city_id: 66
+  -
+    id: 863
+    name: "Kadışehri"
+    city_id: 66
+  -
+    id: 864
+    name: "Saraykent"
+    city_id: 66
+  -
+    id: 865
+    name: "Sarıkaya"
+    city_id: 66
+  -
+    id: 866
+    name: "Sorgun"
+    city_id: 66
+  -
+    id: 867
+    name: "Şefaatli"
+    city_id: 66
+  -
+    id: 868
+    name: "Yenifakılı"
+    city_id: 66
+  -
+    id: 869
+    name: "Yerköy"
+    city_id: 66
+  -
+    id: 870
+    name: "Zonguldak"
+    city_id: 67
+  -
+    id: 871
+    name: "Alaplı"
+    city_id: 67
+  -
+    id: 872
+    name: "Çaycuma"
+    city_id: 67
+  -
+    id: 873
+    name: "Devrek"
+    city_id: 67
+  -
+    id: 874
+    name: "Karadenizereğli"
+    city_id: 67
+  -
+    id: 875
+    name: "Gökçebey"
+    city_id: 67
+  -
+    id: 876
+    name: "Aksaray"
+    city_id: 68
+  -
+    id: 877
+    name: "Ağaçören"
+    city_id: 68
+  -
+    id: 878
+    name: "Eskil"
+    city_id: 68
+  -
+    id: 879
+    name: "Gülağaç(Ağaçlı)"
+    city_id: 68
+  -
+    id: 880
+    name: "Güzelyurt"
+    city_id: 68
+  -
+    id: 881
+    name: "Ortaköy"
+    city_id: 68
+  -
+    id: 882
+    name: "Sarıyahşi"
+    city_id: 68
+  -
+    id: 883
+    name: "Bayburt"
+    city_id: 69
+  -
+    id: 884
+    name: "Aydıntepe"
+    city_id: 69
+  -
+    id: 885
+    name: "Demirözü"
+    city_id: 69
+  -
+    id: 886
+    name: "Karaman"
+    city_id: 70
+  -
+    id: 887
+    name: "Ayrancı"
+    city_id: 70
+  -
+    id: 888
+    name: "Başyayla"
+    city_id: 70
+  -
+    id: 889
+    name: "Ermenek"
+    city_id: 70
+  -
+    id: 890
+    name: "Kazımkarabekir"
+    city_id: 70
+  -
+    id: 891
+    name: "Sarıveliler"
+    city_id: 70
+  -
+    id: 892
+    name: "Kırıkkale"
+    city_id: 71
+  -
+    id: 893
+    name: "Bahşili"
+    city_id: 71
+  -
+    id: 894
+    name: "Balışeyh"
+    city_id: 71
+  -
+    id: 895
+    name: "Çelebi"
+    city_id: 71
+  -
+    id: 896
+    name: "Delice"
+    city_id: 71
+  -
+    id: 897
+    name: "Karakeçili"
+    city_id: 71
+  -
+    id: 898
+    name: "Keskin"
+    city_id: 71
+  -
+    id: 899
+    name: "Sulakyurt"
+    city_id: 71
+  -
+    id: 900
+    name: "Yahşihan"
+    city_id: 71
+  -
+    id: 901
+    name: "Batman"
+    city_id: 72
+  -
+    id: 902
+    name: "Beşiri"
+    city_id: 72
+  -
+    id: 903
+    name: "Gercüş"
+    city_id: 72
+  -
+    id: 904
+    name: "Hasankeyf"
+    city_id: 72
+  -
+    id: 905
+    name: "Kozluk"
+    city_id: 72
+  -
+    id: 906
+    name: "Sason"
+    city_id: 72
+  -
+    id: 907
+    name: "Şırnak"
+    city_id: 73
+  -
+    id: 908
+    name: "Beytüşşebap"
+    city_id: 73
+  -
+    id: 909
+    name: "Cizre"
+    city_id: 73
+  -
+    id: 910
+    name: "Güçlükonak"
+    city_id: 73
+  -
+    id: 911
+    name: "İdil"
+    city_id: 73
+  -
+    id: 912
+    name: "Silopi"
+    city_id: 73
+  -
+    id: 913
+    name: "Uludere"
+    city_id: 73
+  -
+    id: 914
+    name: "Bartın"
+    city_id: 74
+  -
+    id: 915
+    name: "Amasra"
+    city_id: 74
+  -
+    id: 916
+    name: "Kurucaşile"
+    city_id: 74
+  -
+    id: 917
+    name: "Ulus"
+    city_id: 74
+  -
+    id: 918
+    name: "Ardahan"
+    city_id: 75
+  -
+    id: 919
+    name: "Çıldır"
+    city_id: 75
+  -
+    id: 920
+    name: "Damal"
+    city_id: 75
+  -
+    id: 921
+    name: "Göle"
+    city_id: 75
+  -
+    id: 922
+    name: "Hanak"
+    city_id: 75
+  -
+    id: 923
+    name: "Posof"
+    city_id: 75
+  -
+    id: 924
+    name: "Iğdır"
+    city_id: 76
+  -
+    id: 925
+    name: "Aralık"
+    city_id: 76
+  -
+    id: 926
+    name: "Karakoyunlu"
+    city_id: 76
+  -
+    id: 927
+    name: "Tuzluca"
+    city_id: 76
+  -
+    id: 928
+    name: "Yalova"
+    city_id: 77
+  -
+    id: 929
+    name: "Altınova"
+    city_id: 77
+  -
+    id: 930
+    name: "Armutlu"
+    city_id: 77
+  -
+    id: 931
+    name: "Çiftlikköy"
+    city_id: 77
+  -
+    id: 932
+    name: "Çınarcık"
+    city_id: 77
+  -
+    id: 933
+    name: "Termal"
+    city_id: 77
+  -
+    id: 934
+    name: "Karabük"
+    city_id: 78
+  -
+    id: 935
+    name: "Eflani"
+    city_id: 78
+  -
+    id: 936
+    name: "Eskipazar"
+    city_id: 78
+  -
+    id: 937
+    name: "Ovacık"
+    city_id: 78
+  -
+    id: 938
+    name: "Safranbolu"
+    city_id: 78
+  -
+    id: 939
+    name: "Yenice"
+    city_id: 78
+  -
+    id: 940
+    name: "Kilis"
+    city_id: 79
+  -
+    id: 941
+    name: "Elbeyli"
+    city_id: 79
+  -
+    id: 942
+    name: "Musabeyli"
+    city_id: 79
+  -
+    id: 943
+    name: "Polateli"
+    city_id: 79
+  -
+    id: 944
+    name: "Osmaniye"
+    city_id: 80
+  -
+    id: 945
+    name: "Bahçe"
+    city_id: 80
+  -
+    id: 946
+    name: "Düziçi"
+    city_id: 80
+  -
+    id: 947
+    name: "Hasanbeyli"
+    city_id: 80
+  -
+    id: 948
+    name: "Kadirli"
+    city_id: 80
+  -
+    id: 949
+    name: "Sumbas"
+    city_id: 80
+  -
+    id: 950
+    name: "Toprakkale"
+    city_id: 80
+  -
+    id: 951
+    name: "Düzce"
+    city_id: 81
+  -
+    id: 952
+    name: "Akçakoca"
+    city_id: 81
+  -
+    id: 953
+    name: "Cumayeri"
+    city_id: 81
+  -
+    id: 954
+    name: "Çilimli"
+    city_id: 81
+  -
+    id: 955
+    name: "Gölyaka"
+    city_id: 81
+  -
+    id: 956
+    name: "Gümüşova"
+    city_id: 81
+  -
+    id: 957
+    name: "Kaynaşlı"
+    city_id: 81
+  -
+    id: 958
+    name: "Yığılca"
+    city_id: 81
