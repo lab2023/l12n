@@ -5,8 +5,5 @@
 ENGINE_ROOT = File.expand_path('../..', __FILE__)
 ENGINE_PATH = File.expand_path('../../lib/l12n/engine', __FILE__)
 
-require 'active_record/railtie'
-require 'action_controller/railtie'
-require 'action_mailer/railtie'
-require 'sprockets/railtie'
+require 'rails/all'
 require 'rails/engine/commands'
