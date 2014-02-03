@@ -1,4 +1,4 @@
-require_dependency "l12n/application_controller"
+require_dependency 'l12n/application_controller'
 
 module L12n
   class DistrictsController < ApplicationController

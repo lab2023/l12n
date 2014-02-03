@@ -1,4 +1,4 @@
-require "l12n/engine"
+require 'l12n/engine'
 
 module L12n
 end
