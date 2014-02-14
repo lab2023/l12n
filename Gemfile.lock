@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    l12n (1.0.1)
-      rails (~> 4.0.0)
+    l12n (1.1.0)
+      rails (~> 4.0)
 
 GEM
   remote: http://rubygems.org/
