@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    l12n (1.1.0)
+    l12n (1.1.1)
       rails (~> 4.0)
 
 GEM
