@@ -1,6 +1,0 @@
-require 'test_helper'
-
-module L12n
-  class CitiesHelperTest < ActionView::TestCase
-  end
-end

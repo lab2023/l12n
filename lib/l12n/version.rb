@@ -1,3 +1,3 @@
 module L12n
-  VERSION = "0.1.0"
+  VERSION = '1.1.2'.freeze
 end

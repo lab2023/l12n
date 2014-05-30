@@ -1,6 +1,6 @@
 # L12n
 
-**l12n** creates locations data for you. It only for Turkey.
+**l12n** creates locations data for you. It's only for Turkey but you can easily improve it.
 
 ## Requirements
 
@@ -89,7 +89,7 @@ http://github.com/kebab-project/l12n/issues
 
 ## Contributing
 
-L12n uses [rDoc](http://rubydoc.info/gems/l12n) and [SemVer](http://semver.org/), and takes it seriously.
+L12n uses [SemVer](http://semver.org/), and takes it seriously.
 
 Once you've made your great commits:
 
@@ -101,10 +101,12 @@ Once you've made your great commits:
 
 ## Credits
 
-- L12n is maintained and funded by [lab2023 - internet technologies](http://lab2023.com/)
+![lab2023](http://lab2023.com/assets/images/named-logo.png)
+
+- L12n is maintained and funded by [lab2023 - information technologies](http://lab2023.com/)
 - Thank you to all the [contributors!](https://github.com/kebab-project/l12n/graphs/contributors)
 - The names and logos for lab2023 are trademarks of lab2023, inc.
 
 ## License
 
-Copyright 2012 lab2023 – internet technologies
+Copyright 2014 lab2023 – information technologies
