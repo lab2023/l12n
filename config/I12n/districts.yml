@@ -648,10 +648,6 @@
     name: "Bitlis"
     city_id: 13
   -
-    id: 163
-    name: "Addistrictsvaz"
-    city_id: 13
-  -
     id: 164
     name: "Ahlat"
     city_id: 13
