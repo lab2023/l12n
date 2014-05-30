@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = L12n::VERSION
   s.authors     = ['lab2023']
   s.email       = ['info@lab2023.com']
-  s.homepage    = 'https://github.com/kebab-project/l12n'
+  s.homepage    = 'https://github.com/lab2023/l12n'
   s.summary     = 'Locations data'
   s.description = 'Locations data'
 
