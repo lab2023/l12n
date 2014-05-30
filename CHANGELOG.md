@@ -1,5 +1,11 @@
 
 #### [Current]
+ * [dca0a1a](../../commit/dca0a1a) - __(Muhammet DİLEK)__ gemfile fixed
+ * [f56d044](../../commit/f56d044) - __(Onur Ozgur OZKAN)__ Bump version 1.1.2
+ * [4fd9d76](../../commit/4fd9d76) - __(Onur Ozgur OZKAN)__ Bump version 1.0.0
+
+#### 1.1.2
+ * [6f0716d](../../commit/6f0716d) - __(Muhammet DİLEK)__ bump version 1.1.2
  * [68e6d75](../../commit/68e6d75) - __(Muhammet DİLEK)__ TB-35 district fixed
  * [143f5c1](../../commit/143f5c1) - __(Muhammet DİLEK)__ homepage url fixed
  * [bcc82c5](../../commit/bcc82c5) - __(Ahmet Sezgin Duran)__ LAB-31 #time 1m Add named logo
