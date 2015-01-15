@@ -85,7 +85,7 @@ mount L12n::Engine => '/locations'
 
 If you discover any bugs or want to drop a line, feel free to create an issue on GitHub.
 
-http://github.com/kebab-project/l12n/issues
+http://github.com/lab2023/l12n/issues
 
 ## Contributing
 
@@ -93,7 +93,7 @@ L12n uses [SemVer](http://semver.org/), and takes it seriously.
 
 Once you've made your great commits:
 
-1. Fork Template
+1. Fork project
 2. Create a topic branch - `git checkout -b my_branch`
 3. Push to your branch - `git push origin my_branch`
 4. Create a Pull Request from your branch
@@ -104,7 +104,7 @@ Once you've made your great commits:
 ![lab2023](http://lab2023.com/assets/images/named-logo.png)
 
 - L12n is maintained and funded by [lab2023 - information technologies](http://lab2023.com/)
-- Thank you to all the [contributors!](https://github.com/kebab-project/l12n/graphs/contributors)
+- Thank you to all the [contributors!](../../graphs/contributors)
 - The names and logos for lab2023 are trademarks of lab2023, inc.
 
 ## License
